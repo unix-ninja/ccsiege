@@ -6,4 +6,4 @@ OUTFILE=ccsiege
 
 program: main.cc
 	@echo "Compiling ccsiege..."
-	$(CC) $^ -o $(OUTFILE) $(INCBOOST) $(LIBBOOST) -lboost_system -lc
+	$(CC) $^ -std=c++11 -o $(OUTFILE) $(INCBOOST) $(LIBBOOST) -lboost_system -lc
