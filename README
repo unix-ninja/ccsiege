@@ -6,7 +6,21 @@ This software is provided to the community to help defend online merchant infras
 
 ## Building this software
 
-ccsiege requires the boost library to compile (boost_system should be sufficient.) With boost installed, you should be able to just run make to compile a binary.
+ccsiege requires the boost library to compile (boost_system should be sufficient.) You can compile from source, or just use your system's package manager.
+
+On Ubuntu, you can install it with the following:
+
+```
+$ sudo apt-get update && sudo apt-get install libboost-system-dev
+```
+
+On macOS, you can use homebrew.
+
+```
+$ sudo brew install boost
+```
+
+With boost installed, you should be able to just run make to compile a binary.
 
 ```
 $ make
