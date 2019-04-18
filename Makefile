@@ -1,8 +1,11 @@
 CC=g++
-LDIR=/usr/local/lib
-IDIR=/usr/local/include
+LDIR?=/usr/local/lib
+IDIR?=/usr/local/include
 EXECS=program
 OUTFILE=ccsiege
+
+INCBOOST=-I $(IDIR)
+LIBBOOST=-L $(LDIR)
 
 program: main.cc
 	@echo "Compiling ccsiege..."

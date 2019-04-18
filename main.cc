@@ -239,16 +239,16 @@ int main(int argc, char** argv)
       // now tokenize each entry into IIN and length
       for (int ii=0; ii < iin_list.size(); ii++)
       {
-	vector<string> iin_meta;
-	boost::split(iin_meta, iin_list[ii], boost::is_any_of(":"));
-	// default length is none specified
-	if (iin_meta.size() == 1)
-	{
-	  iin_meta.push_back("13");
-	}
+        vector<string> iin_meta;
+        boost::split(iin_meta, iin_list[ii], boost::is_any_of(":"));
+        // default length is none specified
+        if (iin_meta.size() == 1)
+        {
+          iin_meta.push_back("13");
+        }
 
-	// push IINs to pool
-	prefixes.push_back(iin(stol(iin_meta[0]), stol(iin_meta[1])));
+        // push IINs to pool
+        prefixes.push_back(iin(stol(iin_meta[0]), stol(iin_meta[1])));
       }
     }
     else if (opt == "-I" || opt == "--issuers")
@@ -260,16 +260,16 @@ int main(int argc, char** argv)
       // expand issuer short names
       for (int i=0; i< issuers.size(); i++)
       {
-	string issuer = issuers[i];
-	cstrtolower(&issuer);
-	if (issuer == "amex")
-	{
-	  issuers[i] = "american express";
-	}
-	else if (issuer == "diners")
-	{
-	  issuers[i] = "diners club";
-	}
+        string issuer = issuers[i];
+        cstrtolower(&issuer);
+        if (issuer == "amex")
+        {
+          issuers[i] = "american express";
+        }
+        else if (issuer == "diners")
+        {
+          issuers[i] = "diners club";
+        }
       }
     }
     else if (opt == "-V" || opt == "--vendors")
@@ -307,8 +307,8 @@ int main(int argc, char** argv)
     while (cin >> line_input)
     {
       if (verify_pan(line_input))
-      {	
-	cout << line_input << endl;
+      {        
+        cout << line_input << endl;
       }
     }
     return 0;
@@ -351,34 +351,34 @@ int main(int argc, char** argv)
       // filter by vendor
       if (vendors.size())
       {
-	string current_vendor = it->second.get<string>("vendor", "");
-	cstrtolower(&current_vendor);
+        string current_vendor = it->second.get<string>("vendor", "");
+        cstrtolower(&current_vendor);
         if (find(vendors.begin(), vendors.end(), current_vendor) == vendors.end())
-	{
-	  add_iin = false;
-	}
+        {
+          add_iin = false;
+        }
       }
 
       // filter by issuer
       if (issuers.size())
       {
-	string current_issuer = it->second.get<string>("issuer", "");
-	cstrtolower(&current_issuer);
+        string current_issuer = it->second.get<string>("issuer", "");
+        cstrtolower(&current_issuer);
         if (find(issuers.begin(), issuers.end(), current_issuer) == issuers.end())
-	{
-	  add_iin = false;
-	}
+        {
+          add_iin = false;
+        }
       }
 
       // filter by country
       if (countries.size())
       {
-	string current_country = it->second.get<string>("country", "");
-	cstrtolower(&current_country);
+        string current_country = it->second.get<string>("country", "");
+        cstrtolower(&current_country);
         if (find(countries.begin(), countries.end(), current_country) == countries.end())
-	{
-	  add_iin = false;
-	}
+        {
+          add_iin = false;
+        }
       }
       if (add_iin)
       {
