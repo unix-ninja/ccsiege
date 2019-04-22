@@ -12,7 +12,8 @@
 using namespace std;
 namespace pt = boost::property_tree;
 
-#define VERSION 0.1
+#define VERSION 0.2
+#define DEFAULT_CARD_LEN 16
 
 // we need some generic string to lower functions for later
 void cstrtolower(char *cstring)
@@ -59,14 +60,13 @@ arguments::arguments()
 
 void arguments::set(string key)
 {
-  if (key == "version")
-  {
-    version = true;
-    return;
-  }
   random = false;
   verify = false;
   walk = false;
+  if (key == "version")
+  {
+    version = true;
+  }
   if (key == "random")
   {
     random = true;
@@ -79,6 +79,7 @@ void arguments::set(string key)
   {
     walk = true;
   }
+  return;
 }
 
 // ...and a class to hold IIN data for later
@@ -193,6 +194,7 @@ int main(int argc, char** argv)
   vector<string> countries;
   vector<string> issuers;
   vector<string> vendors;
+  int force_len = 0;
 
   // parse options
   for ( int i=1; i<argc; i++ )
@@ -210,6 +212,7 @@ int main(int argc, char** argv)
       cout << "    -h, --help        Displays this help notice" << endl;
       cout << "    -i, --iin         Specify a list of IINs to use in the IIN pool. You can add an optional PAN length (colon-separated) for each IIN" << endl;
       cout << "    -I, --issuers     Specify a comma-separated list of issuers to use in the IIN pool" << endl;
+      cout << "    -l, --length      Force the length of the PANs being generated" << endl;
       cout << "    -r, --random      Generate random PAN candidates for each IIN" << endl;
       cout << "        --verify      Checks input on stdin and outputs only the valid PANs" << endl;
       cout << "    -v, --version     Displays version info" << endl;
@@ -241,10 +244,10 @@ int main(int argc, char** argv)
       {
         vector<string> iin_meta;
         boost::split(iin_meta, iin_list[ii], boost::is_any_of(":"));
-        // default length is none specified
+        // default length if none specified
         if (iin_meta.size() == 1)
         {
-          iin_meta.push_back("13");
+          iin_meta.push_back(std::to_string(DEFAULT_CARD_LEN));
         }
 
         // push IINs to pool
@@ -271,6 +274,10 @@ int main(int argc, char** argv)
           issuers[i] = "diners club";
         }
       }
+    }
+    else if (opt == "-l" || opt == "--length")
+    {
+      force_len = std::stoi(argv[++i]);
     }
     else if (opt == "-V" || opt == "--vendors")
     {
@@ -382,7 +389,8 @@ int main(int argc, char** argv)
       }
       if (add_iin)
       {
-        prefixes.push_back(iin(it->second.get<int>("iin"), it->second.get<int>("length", 13)));
+        prefixes.push_back(iin(it->second.get<int>("iin"),
+          (force_len ? force_len : it->second.get<int>("length", DEFAULT_CARD_LEN))));
       }
     }
   }

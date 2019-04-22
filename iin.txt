@@ -380,13 +380,13 @@
     "country": "US", 
     "iin": 34, 
     "issuer": "American Express", 
-    "length": 16
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 37, 
     "issuer": "American Express", 
-    "length": 16
+    "length": 15
   }, 
   {
     "country": "US", 
@@ -669,521 +669,608 @@
     "country": "PL", 
     "iin": 337941, 
     "issuer": "American Express", 
-    "vendor": "Bank Millennium"
+    "vendor": "Bank Millennium",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 370266, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "iin": 3746010, 
     "issuer": "American Express", 
-    "vendor": "HSBC"
+    "vendor": "HSBC",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3712, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3713, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3715, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3717, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3723, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
     "iin": 372301, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 372395, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 372550, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
     "iin": 3727, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 372734, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 372741, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 372888, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 372863, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
     "iin": 3732, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 373275, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
     "iin": 3733, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
     "iin": 3735, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 3742, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 374283, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 374288, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 374289, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 3743, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374314, 
     "issuer": "American Express", 
-    "vendor": "Bank of America"
+    "vendor": "Bank of America",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374322, 
     "issuer": "American Express", 
-    "vendor": "Bank of America"
+    "vendor": "Bank of America",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374326, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374328, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374345, 
     "issuer": "American Express", 
-    "vendor": "Citibank"
+    "vendor": "Citibank",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374350, 
     "issuer": "American Express", 
-    "vendor": "Citibank"
+    "vendor": "Citibank",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 3745, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 374604, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 374614, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "FR", 
     "iin": 374622, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "DE", 
     "iin": 374654, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 374660, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 374661, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 374671, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 374691, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 374693, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 374716, 
     "issuer": "American Express", 
-    "vendor": "FIA Card Services"
+    "vendor": "FIA Card Services",
+    "length": 15
   }, 
   {
     "country": "FI", 
     "iin": 374801, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "FR", 
     "iin": 374970, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "FR", 
     "iin": 374996, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "DE", 
     "iin": 3750, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "FI", 
     "iin": 3751, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CN", 
     "iin": 375142, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "IT", 
     "iin": 3752, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "NL", 
     "iin": 3753, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 3754150, 
     "issuer": "American Express", 
-    "vendor": "Commonwealth Bank of Australia"
+    "vendor": "Commonwealth Bank of Australia",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 3754151, 
     "issuer": "American Express", 
-    "vendor": "Commonwealth Bank of Australia"
+    "vendor": "Commonwealth Bank of Australia",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 3754155, 
     "issuer": "American Express", 
-    "vendor": "Commonwealth Bank of Australia"
+    "vendor": "Commonwealth Bank of Australia",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 3754165, 
     "issuer": "American Express", 
-    "vendor": "Commonwealth Bank of Australia"
+    "vendor": "Commonwealth Bank of Australia",
+    "length": 15
   }, 
   {
     "country": "ES", 
     "iin": 3755490, 
     "issuer": "American Express", 
-    "vendor": "Swedbank"
+    "vendor": "Swedbank",
+    "length": 15
   }, 
   {
     "country": "ES", 
     "iin": 3755492, 
     "issuer": "American Express", 
-    "vendor": "Swedbank"
+    "vendor": "Swedbank",
+    "length": 15
   }, 
   {
     "country": "TR", 
     "iin": 375622, 
     "issuer": "American Express", 
-    "vendor": "Garanti Bank"
+    "vendor": "Garanti Bank",
+    "length": 15
   }, 
   {
     "country": "TR", 
     "iin": 375628, 
     "issuer": "American Express", 
-    "vendor": "Garanti Bank"
+    "vendor": "Garanti Bank",
+    "length": 15
   }, 
   {
     "country": "SE", 
     "iin": 375790, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CH", 
     "iin": 3758, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "HK", 
     "iin": 3759, 
     "issuer": "American Express", 
-    "vendor": ""
+    "vendor": "",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 3760, 
     "issuer": "American Express", 
-    "vendor": ""
+    "vendor": "",
+    "length": 15
   }, 
   {
     "country": "SG", 
     "iin": 376211, 
     "issuer": "American Express", 
-    "vendor": ""
+    "vendor": "",
+    "length": 15
   }, 
   {
     "country": "HK", 
     "iin": 3763, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "SG", 
     "iin": 376317, 
     "issuer": "American Express", 
-    "vendor": "UOB"
+    "vendor": "UOB",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3764, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "MX", 
     "iin": 3766, 
     "issuer": "American Express", 
-    "vendor": "American Express, Platinum, Sri Lanka"
+    "vendor": "American Express, Platinum, Sri Lanka",
+    "length": 15
   }, 
   {
     "country": "MX", 
     "iin": 3767, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "CN", 
     "iin": 376966, 
     "issuer": "American Express", 
-    "vendor": "China CITIC Bank"
+    "vendor": "China CITIC Bank",
+    "length": 15
   }, 
   {
     "country": "CN", 
     "iin": 376968, 
     "issuer": "American Express", 
-    "vendor": "China CITIC Bank"
+    "vendor": "China CITIC Bank",
+    "length": 15
   }, 
   {
     "country": "CN", 
     "iin": 370286, 
     "issuer": "American Express", 
-    "vendor": "China Merchants Bank"
+    "vendor": "China Merchants Bank",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 3770, 
     "issuer": "American Express", 
-    "vendor": "Lloyds TSB"
+    "vendor": "Lloyds TSB",
+    "length": 15
   }, 
   {
     "country": "VE", 
     "iin": 377032, 
     "issuer": "American Express", 
-    "vendor": ""
+    "vendor": "",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 377064, 
     "issuer": "American Express", 
-    "vendor": "Lloyds TSB"
+    "vendor": "Lloyds TSB",
+    "length": 15
   }, 
   {
     "country": "HK", 
     "iin": 377100, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 377130, 
     "issuer": "American Express", 
-    "vendor": "MBNA Europe Bank (Bank of America)"
+    "vendor": "MBNA Europe Bank (Bank of America)",
+    "length": 15
   }, 
   {
     "country": "HK", 
     "iin": 377165, 
     "issuer": "American Express", 
-    "vendor": "Citibank (Hong Kong)"
+    "vendor": "Citibank (Hong Kong)",
+    "length": 15
   }, 
   {
     "country": "", 
     "iin": 3772, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 377311, 
     "issuer": "American Express", 
-    "vendor": "MBNA Europe Bank (Bank of America)"
+    "vendor": "MBNA Europe Bank (Bank of America)",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 377311, 
     "issuer": "American Express", 
-    "vendor": "MBNA Europe Bank (Bank of America)"
+    "vendor": "MBNA Europe Bank (Bank of America)",
+    "length": 15
   }, 
   {
     "country": "NZ", 
     "iin": 377441, 
     "issuer": "American Express", 
-    "vendor": "American Express"
+    "vendor": "American Express",
+    "length": 15
   }, 
   {
     "country": "NZ", 
     "iin": 377445, 
     "issuer": "American Express", 
-    "vendor": ""
+    "vendor": "",
+    "length": 15
   }, 
   {
     "country": "UK", 
     "iin": 377687, 
     "issuer": "American Express", 
-    "vendor": "Lloyds TSB"
+    "vendor": "Lloyds TSB",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 377705, 
     "issuer": "American Express", 
-    "vendor": "American Express Australia Limited"
+    "vendor": "American Express Australia Limited",
+    "length": 15
   }, 
   {
     "country": "CL", 
     "iin": 377826, 
     "issuer": "American Express", 
-    "vendor": "Banco Santander"
+    "vendor": "Banco Santander",
+    "length": 15
   }, 
   {
     "country": "AU", 
     "iin": 377878, 
     "issuer": "American Express", 
-    "vendor": "National Australia Bank"
+    "vendor": "National Australia Bank",
+    "length": 15
   }, 
   {
     "country": "US", 
     "iin": 3797, 
-    "issuer": "American Express"
+    "issuer": "American Express",
+    "length": 15
   }, 
   {
     "country": "CA", 
