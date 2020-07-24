@@ -14,6 +14,7 @@ namespace pt = boost::property_tree;
 
 #define VERSION 0.2
 #define DEFAULT_CARD_LEN 16
+std::string app_filename;
 
 // we need some generic string to lower functions for later
 void cstrtolower(char *cstring)
@@ -186,6 +187,31 @@ bool verify_pan(string pan)
   return false;
 }
 
+int usage()
+{
+  cout << "usage: " << app_filename << " [options]" << endl;
+  cout << "    -c, --country     Specify a comma-separated list of 2-letter country codes to add IINs to the pool based on geographic location." << endl;
+  cout << "    -d, --debug       Enable debug output" << endl;
+  cout << "    -h, --help        Displays this help notice" << endl;
+  cout << "    -i, --iin         Specify a list of IINs to use in the IIN pool. You can add an optional PAN length (colon-separated) for each IIN" << endl;
+  cout << "    -I, --issuers     Specify a comma-separated list of issuers to use in the IIN pool" << endl;
+  cout << "    -l, --length      Force the length of the PANs being generated" << endl;
+  cout << "    -r, --random      Generate random PAN candidates for each IIN" << endl;
+  cout << "        --verify      Checks input on stdin and outputs only the valid PANs" << endl;
+  cout << "    -v, --version     Displays version info" << endl;
+  cout << "    -V, --vendors     Specify a comma-separated list of vendors to use in the IIN pool" << endl;
+  cout << "    -w, --walk        Generate all PAN candidates for each IIN" << endl;
+  cout << endl;
+  cout << "issuers:" << endl; 
+  cout << "    Card issuers can be referenced by the issuer's name. Additionally, you can use shortnames with select issuers. Please reference the iin.txt file to view all entries. e.g." << endl;
+  cout << "        amex" << endl;
+  cout << "        dinersclub" << endl;
+  cout << "        jcb" << endl;
+  cout << "        mastercard" << endl;
+  cout << "        visa" << endl;
+  return 1;
+}
+
 int main(int argc, char** argv)
 {
   arguments args;
@@ -196,6 +222,8 @@ int main(int argc, char** argv)
   vector<string> vendors;
   int force_len = 0;
 
+  app_filename = argv[0];
+
   // parse options
   for ( int i=1; i<argc; i++ )
   {
@@ -204,29 +232,10 @@ int main(int argc, char** argv)
       break;
     }
     opt = argv[i];
+
     if (opt == "-h" || opt == "--help")
     {
-      cout << "usage: " << argv[0] << " [options]" << endl;
-      cout << "    -c, --country     Specify a comma-separated list of 2-letter country codes to add IINs to the pool based on geographic location." << endl;
-      cout << "    -d, --debug       Enable debug output" << endl;
-      cout << "    -h, --help        Displays this help notice" << endl;
-      cout << "    -i, --iin         Specify a list of IINs to use in the IIN pool. You can add an optional PAN length (colon-separated) for each IIN" << endl;
-      cout << "    -I, --issuers     Specify a comma-separated list of issuers to use in the IIN pool" << endl;
-      cout << "    -l, --length      Force the length of the PANs being generated" << endl;
-      cout << "    -r, --random      Generate random PAN candidates for each IIN" << endl;
-      cout << "        --verify      Checks input on stdin and outputs only the valid PANs" << endl;
-      cout << "    -v, --version     Displays version info" << endl;
-      cout << "    -V, --vendors     Specify a comma-separated list of vendors to use in the IIN pool" << endl;
-      cout << "    -w, --walk        Generate all PAN candidates for each IIN" << endl;
-      cout << endl;
-      cout << "issuers:" << endl; 
-      cout << "    Card issuers can be referenced by the issuer's name. Additionally, you can use shortnames with select issuers. Please reference the iin.txt file to view all entries. e.g." << endl;
-      cout << "        amex" << endl;
-      cout << "        dinersclub" << endl;
-      cout << "        jcb" << endl;
-      cout << "        mastercard" << endl;
-      cout << "        visa" << endl;
-      return 1;
+      return usage();
     }
     else if (opt == "-c" || opt == "--country")
     {
@@ -236,6 +245,9 @@ int main(int argc, char** argv)
     }
     else if (opt == "-i" || opt == "--iin")
     {
+      // make sure we have an argument to assign
+      if (i == argc-1) return usage();
+
       // split the argument into tokens
       vector<string> iin_list;
       boost::split(iin_list, argv[++i], boost::is_any_of(","));
@@ -256,6 +268,9 @@ int main(int argc, char** argv)
     }
     else if (opt == "-I" || opt == "--issuers")
     {
+      // make sure we have an argument to assign
+      if (i == argc-1) return usage();
+
       // split the argument into tokens
       cstrtolower(argv[++i]);
       boost::split(issuers, argv[i], boost::is_any_of(","));
@@ -277,10 +292,16 @@ int main(int argc, char** argv)
     }
     else if (opt == "-l" || opt == "--length")
     {
+      // make sure we have an argument to assign
+      if (i == argc-1) return usage();
+
       force_len = std::stoi(argv[++i]);
     }
     else if (opt == "-V" || opt == "--vendors")
     {
+      // make sure we have an argument to assign
+      if (i == argc-1) return usage();
+
       // split the argument into tokens
       cstrtolower(argv[++i]);
       boost::split(vendors, argv[i], boost::is_any_of(","));
