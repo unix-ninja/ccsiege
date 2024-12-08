@@ -33,10 +33,10 @@ This code should be portable enough to build on Microsoft Windows, though this h
 Please use the `--help` flag to get a full list of features. An example of usage could be:
 
 ```
-$ ccsiege --walk --issuers <issuer> --country <country code> --vendors <vendors>
+$ ccsiege --walk --networks <network> --country <country code> --issuers <issuers>
 ```
 
-The quality of the results are dependant on the quality of the *iin.txt* file. Although this file is not definitive, it is fairly comprehensive and will still be heavily effective at targeting common keyspaces. Contributions to the *iin.txt* file can help increase the quailty of filtering and are welcome in pull-requests.
+The quality of the results are dependant on the quality of the *iin.json* file. Two json files are included with this software. The default *iin.json* is large (~350k records) and may take over 30 seconds to run. A smaller *fast.json* is included if you just need some common IINs, and generally runs fairly immediately. Contributions to these json files can help increase the quailty of filtering and are welcome in pull-requests.
 
 Some more information can be found at: [unix-ninja.com](https://www.unix-ninja.com/p/Playing_with_PANs_to_improve_security)
 

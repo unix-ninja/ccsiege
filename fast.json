@@ -1,0 +1,2757 @@
+[
+  {
+    "country_code": "US", 
+    "iin": 3000, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3001, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3002, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3003, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3004, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3005, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3006, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3007, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3008, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3009, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3010, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3011, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3012, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3013, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3014, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3015, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3016, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3017, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3018, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3019, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3020, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3021, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3022, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3023, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3024, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3025, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3026, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3027, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3028, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3029, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3030, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3031, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3032, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3033, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3034, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3035, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3036, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3037, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3038, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3039, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3040, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3041, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3042, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3043, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3044, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3045, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3046, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3047, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3048, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3049, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3050, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3051, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3052, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3053, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3054, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3055, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3056, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3057, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3058, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3059, 
+    "network": "Diners Club", 
+    "issuer": "diners club"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 6011, 
+    "network": "Discover", 
+    "issuer": "discover"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 65, 
+    "network": "Discover", 
+    "issuer": "discover"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 35, 
+    "network": "JCB"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 34, 
+    "network": "American Express", 
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 37, 
+    "network": "American Express", 
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 51, 
+    "issuer": "mastercard"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 52, 
+    "issuer": "mastercard"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 53, 
+    "issuer": "mastercard"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 54, 
+    "issuer": "mastercard"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 55, 
+    "issuer": "mastercard"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 4, 
+    "network": "visa",
+    "issuer": "visa"
+  }, 
+  {
+    "country_code": "JP", 
+    "iin": 354269, 
+    "network": "JCB", 
+    "issuer": "West Japan Railway Company"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 3560, 
+    "network": "JCB", 
+    "issuer": "BC Card"
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 356210, 
+    "network": "JCB", 
+    "issuer": "HSBC"
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 356239, 
+    "network": "JCB", 
+    "issuer": "Bank of East Asia"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356296, 
+    "network": "JCB", 
+    "issuer": "Shinhan Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356297, 
+    "network": "JCB", 
+    "issuer": "Shinhan Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 3563, 
+    "network": "JCB", 
+    "issuer": "BC Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356316, 
+    "network": "JCB", 
+    "issuer": "NH Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356317, 
+    "network": "JCB", 
+    "issuer": "NH Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 3565, 
+    "network": "JCB", 
+    "issuer": "BC Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356800, 
+    "network": "JCB", 
+    "issuer": "Korea Exchange Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356801, 
+    "network": "JCB", 
+    "issuer": "Korea Exchange Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356803, 
+    "network": "JCB", 
+    "issuer": "Korea Exchange Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356804, 
+    "network": "JCB", 
+    "issuer": "Korea Exchange Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356820, 
+    "network": "JCB", 
+    "issuer": "Woori Bank BC Card"
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 356835, 
+    "network": "JCB", 
+    "issuer": "Bank of China"
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 356895, 
+    "network": "JCB", 
+    "issuer": "China Construction Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356900, 
+    "network": "JCB", 
+    "issuer": "Shinhan Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356901, 
+    "network": "JCB", 
+    "issuer": "Shinhan Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356902, 
+    "network": "JCB", 
+    "issuer": "Shinhan Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356910, 
+    "network": "JCB", 
+    "issuer": "Kookmin Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356911, 
+    "network": "JCB", 
+    "issuer": "Kookmin Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356912, 
+    "network": "JCB", 
+    "issuer": "Kookmin Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356914, 
+    "network": "JCB", 
+    "issuer": "Lotte Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356915, 
+    "network": "JCB", 
+    "issuer": "Lotte Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 356916, 
+    "network": "JCB", 
+    "issuer": "Lotte Card"
+  }, 
+  {
+    "country_code": "JP", 
+    "iin": 358413, 
+    "network": "JCB", 
+    "issuer": "AEON Credit Service"
+  }, 
+  {
+    "country_code": "JP", 
+    "iin": 358419, 
+    "network": "JCB", 
+    "issuer": "AEON Credit Service"
+  }, 
+  {
+    "country_code": "JP", 
+    "iin": 358761, 
+    "network": "JCB", 
+    "issuer": "Famima Credit Corporation"
+  }, 
+  {
+    "country_code": "EC", 
+    "iin": 3600, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "FI", 
+    "iin": 3614, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 3616, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3617, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3633, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3634, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "SG", 
+    "iin": 3635, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "IL", 
+    "iin": 3640, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "VE", 
+    "iin": 3641, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 3643, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "AT", 
+    "iin": 3648, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "IN", 
+    "iin": 3670, 
+    "network": "Diners Club", 
+    "issuer": "Diners Club International"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 337941, 
+    "network": "American Express", 
+    "issuer": "Bank Millennium",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 370266, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "iin": 3746010, 
+    "network": "American Express", 
+    "issuer": "HSBC",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3712, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3713, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3715, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3717, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3723, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 372301, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 372395, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 372550, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3727, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 372734, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 372741, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 372888, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 372863, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3732, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 373275, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3733, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 3735, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 3742, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 374283, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 374288, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 374289, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 3743, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374314, 
+    "network": "American Express", 
+    "issuer": "Bank of America",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374322, 
+    "network": "American Express", 
+    "issuer": "Bank of America",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374326, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374328, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374345, 
+    "network": "American Express", 
+    "issuer": "Citibank",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374350, 
+    "network": "American Express", 
+    "issuer": "Citibank",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 3745, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 374604, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 374614, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 374622, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "DE", 
+    "iin": 374654, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 374660, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 374661, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 374671, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 374691, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 374693, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 374716, 
+    "network": "American Express", 
+    "issuer": "FIA Card Services",
+    "length": 15
+  }, 
+  {
+    "country_code": "FI", 
+    "iin": 374801, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 374970, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 374996, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "DE", 
+    "iin": 3750, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "FI", 
+    "iin": 3751, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 375142, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "IT", 
+    "iin": 3752, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "NL", 
+    "iin": 3753, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3754150, 
+    "network": "American Express", 
+    "issuer": "Commonwealth Bank of Australia",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3754151, 
+    "network": "American Express", 
+    "issuer": "Commonwealth Bank of Australia",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3754155, 
+    "network": "American Express", 
+    "issuer": "Commonwealth Bank of Australia",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3754165, 
+    "network": "American Express", 
+    "issuer": "Commonwealth Bank of Australia",
+    "length": 15
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 3755490, 
+    "network": "American Express", 
+    "issuer": "Swedbank",
+    "length": 15
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 3755492, 
+    "network": "American Express", 
+    "issuer": "Swedbank",
+    "length": 15
+  }, 
+  {
+    "country_code": "TR", 
+    "iin": 375622, 
+    "network": "American Express", 
+    "issuer": "Garanti Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "TR", 
+    "iin": 375628, 
+    "network": "American Express", 
+    "issuer": "Garanti Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "SE", 
+    "iin": 375790, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 3758, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 3759, 
+    "network": "American Express", 
+    "issuer": "",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 3760, 
+    "network": "American Express", 
+    "issuer": "",
+    "length": 15
+  }, 
+  {
+    "country_code": "SG", 
+    "iin": 376211, 
+    "network": "American Express", 
+    "issuer": "",
+    "length": 15
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 3763, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "SG", 
+    "iin": 376317, 
+    "network": "American Express", 
+    "issuer": "UOB",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3764, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "MX", 
+    "iin": 3766, 
+    "network": "American Express", 
+    "issuer": "American Express, Platinum, Sri Lanka",
+    "length": 15
+  }, 
+  {
+    "country_code": "MX", 
+    "iin": 3767, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 376966, 
+    "network": "American Express", 
+    "issuer": "China CITIC Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 376968, 
+    "network": "American Express", 
+    "issuer": "China CITIC Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "CN", 
+    "iin": 370286, 
+    "network": "American Express", 
+    "issuer": "China Merchants Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 3770, 
+    "network": "American Express", 
+    "issuer": "Lloyds TSB",
+    "length": 15
+  }, 
+  {
+    "country_code": "VE", 
+    "iin": 377032, 
+    "network": "American Express", 
+    "issuer": "",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 377064, 
+    "network": "American Express", 
+    "issuer": "Lloyds TSB",
+    "length": 15
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 377100, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 377130, 
+    "network": "American Express", 
+    "issuer": "MBNA Europe Bank (Bank of America)",
+    "length": 15
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 377165, 
+    "network": "American Express", 
+    "issuer": "Citibank (Hong Kong)",
+    "length": 15
+  }, 
+  {
+    "country_code": "", 
+    "iin": 3772, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 377311, 
+    "network": "American Express", 
+    "issuer": "MBNA Europe Bank (Bank of America)",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 377311, 
+    "network": "American Express", 
+    "issuer": "MBNA Europe Bank (Bank of America)",
+    "length": 15
+  }, 
+  {
+    "country_code": "NZ", 
+    "iin": 377441, 
+    "network": "American Express", 
+    "issuer": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "NZ", 
+    "iin": 377445, 
+    "network": "American Express", 
+    "issuer": "",
+    "length": 15
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 377687, 
+    "network": "American Express", 
+    "issuer": "Lloyds TSB",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 377705, 
+    "network": "American Express", 
+    "issuer": "American Express Australia Limited",
+    "length": 15
+  }, 
+  {
+    "country_code": "CL", 
+    "iin": 377826, 
+    "network": "American Express", 
+    "issuer": "Banco Santander",
+    "length": 15
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 377878, 
+    "network": "American Express", 
+    "issuer": "National Australia Bank",
+    "length": 15
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 3797, 
+    "network": "American Express",
+    "length": 15
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 500235, 
+    "network": "MasterCard", 
+    "issuer": "National Bank of Canada"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 500766, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 501007, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 501008, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 501012, 
+    "network": "MasterCard", 
+    "issuer": "Meridian Credit Union"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 502029, 
+    "network": "MasterCard", 
+    "issuer": "ASPIDER"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 502123, 
+    "network": "MasterCard", 
+    "issuer": "Kookmin Card"
+  }, 
+  {
+    "country_code": "ZA", 
+    "iin": 503615, 
+    "network": "MasterCard", 
+    "issuer": "Standard Bank of South Africa"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 504507, 
+    "network": "MasterCard", 
+    "issuer": "Barnes &amp; Noble"
+  }, 
+  {
+    "country_code": "IN", 
+    "iin": 504834, 
+    "network": "MasterCard", 
+    "issuer": "ING Vysya Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 504837, 
+    "network": "MasterCard", 
+    "issuer": "Fleet Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 5049, 
+    "network": "MasterCard", 
+    "issuer": "CitiBank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 5077, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507704, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507708, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507709, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507711, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507717, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507719, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 507720, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "RO", 
+    "iin": 510000, 
+    "network": "MasterCard", 
+    "issuer": "Amro Bank"
+  }, 
+  {
+    "country_code": "GR", 
+    "iin": 510001, 
+    "network": "MasterCard", 
+    "issuer": "Agricultural Bank of Greece"
+  }, 
+  {
+    "country_code": "EE", 
+    "iin": 510002, 
+    "network": "MasterCard", 
+    "issuer": "Estonia Credit Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 510003, 
+    "network": "MasterCard", 
+    "issuer": "Samsung Card Co"
+  }, 
+  {
+    "country_code": "TR", 
+    "iin": 510005, 
+    "network": "MasterCard", 
+    "issuer": "HSBC"
+  }, 
+  {
+    "country_code": "NL", 
+    "iin": 510008, 
+    "network": "MasterCard", 
+    "issuer": "VSB International"
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 510009, 
+    "network": "MasterCard", 
+    "issuer": "Europay"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 510010, 
+    "network": "MasterCard", 
+    "issuer": "Powszchny Bank Kredytowy Warszawie"
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 510011, 
+    "network": "MasterCard", 
+    "issuer": "Europay"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510013, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510014, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "GR", 
+    "iin": 510015, 
+    "network": "MasterCard", 
+    "issuer": "Agricultural Bank of Greece"
+  }, 
+  {
+    "country_code": "GR", 
+    "iin": 510016, 
+    "network": "MasterCard", 
+    "issuer": "Agricultural Bank of Greece"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510017, 
+    "network": "MasterCard", 
+    "issuer": "Fimestic Bank"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 510018, 
+    "network": "MasterCard", 
+    "issuer": "PKO Savings Bank"
+  }, 
+  {
+    "country_code": "HU", 
+    "iin": 510019, 
+    "network": "MasterCard", 
+    "issuer": "Budapest Bank Ltd"
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 510021, 
+    "network": "MasterCard", 
+    "issuer": "Europay"
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 510022, 
+    "network": "MasterCard", 
+    "issuer": "Europay"
+  }, 
+  {
+    "country_code": "CH", 
+    "iin": 510023, 
+    "network": "MasterCard", 
+    "issuer": "Europay"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510024, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510025, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "NL", 
+    "iin": 510029, 
+    "network": "MasterCard", 
+    "issuer": "VSB International"
+  }, 
+  {
+    "country_code": "FI", 
+    "iin": 510030, 
+    "network": "MasterCard", 
+    "issuer": "SEB Kort"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510034, 
+    "network": "MasterCard", 
+    "issuer": "Fimestic Bank"
+  }, 
+  {
+    "country_code": "BY", 
+    "iin": 510035, 
+    "network": "MasterCard", 
+    "issuer": "Belarus Bank"
+  }, 
+  {
+    "country_code": "AD", 
+    "iin": 510036, 
+    "network": "MasterCard", 
+    "issuer": "Sabadell Bank of Andorra"
+  }, 
+  {
+    "country_code": "GR", 
+    "iin": 510037, 
+    "network": "MasterCard", 
+    "issuer": "General Bank of Greece"
+  }, 
+  {
+    "country_code": "RU", 
+    "iin": 510038, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Trade Unions Solidarity and Social Investment (Solidarnost)"
+  }, 
+  {
+    "country_code": "RU", 
+    "iin": 510039, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Trade Unions Solidarity and Social Investment (Solidarnost)"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 510040, 
+    "network": "MasterCard", 
+    "issuer": "5-Star Bank"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510060, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510061, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510062, 
+    "network": "MasterCard", 
+    "issuer": "SEMP"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 510087, 
+    "network": "MasterCard", 
+    "issuer": "Santander Bank"
+  }, 
+  {
+    "country_code": "CZ", 
+    "iin": 510136, 
+    "network": "MasterCard", 
+    "issuer": "CitiBank"
+  }, 
+  {
+    "country_code": "CZ", 
+    "iin": 510142, 
+    "network": "MasterCard", 
+    "issuer": "CitiBank"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 510197, 
+    "network": "MasterCard", 
+    "issuer": "UBS AG"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 510241, 
+    "network": "MasterCard", 
+    "issuer": "RBS"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 510259, 
+    "network": "MasterCard", 
+    "issuer": "Alior Sync"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 510782, 
+    "network": "MasterCard", 
+    "issuer": "FirstMerit Corporation"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 5108, 
+    "network": "MasterCard", 
+    "issuer": "INGDirect"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 510840, 
+    "network": "MasterCard", 
+    "issuer": "The Bancorp Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 510875, 
+    "network": "MasterCard", 
+    "issuer": "Lake Michigan Credit Union"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 510982, 
+    "network": "MasterCard", 
+    "issuer": "USAA"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 511, 
+    "network": "MasterCard", 
+    "issuer": "Chase Manhattan Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 511810, 
+    "network": "MasterCard", 
+    "issuer": "PayPal"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512000, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512005, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512010, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512012, 
+    "network": "MasterCard", 
+    "issuer": "Chase Manhattan Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512015, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512022, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "JO", 
+    "iin": 512023, 
+    "network": "MasterCard", 
+    "issuer": "International Card"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512024, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512105, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512106, 
+    "network": "MasterCard", 
+    "issuer": "Sears National Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512107, 
+    "network": "MasterCard", 
+    "issuer": "Sears National Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512108, 
+    "network": "MasterCard", 
+    "issuer": "Sears National Bank"
+  }, 
+  {
+    "country_code": "CL", 
+    "iin": 512109, 
+    "network": "MasterCard", 
+    "issuer": "Corp Banca"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512110, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512111, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 512127, 
+    "network": "MasterCard", 
+    "issuer": "BankWest"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 512136, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 5122, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 5123, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 512462, 
+    "network": "MasterCard", 
+    "issuer": "Lotte Card"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 5125, 
+    "network": "MasterCard", 
+    "issuer": "Western States BankCard Association"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 512551, 
+    "network": "MasterCard", 
+    "issuer": "Europay 6000"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 512552, 
+    "network": "MasterCard", 
+    "issuer": "Europay 6000"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 512553, 
+    "network": "MasterCard", 
+    "issuer": "Europay 6000"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 512554, 
+    "network": "MasterCard", 
+    "issuer": "Europay 6000"
+  }, 
+  {
+    "country_code": "ES", 
+    "iin": 512555, 
+    "network": "MasterCard", 
+    "issuer": "Europay 6000"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 512568, 
+    "network": "MasterCard", 
+    "issuer": "Citi"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 512569, 
+    "network": "MasterCard", 
+    "issuer": "Lloyds TSB"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 512607, 
+    "network": "MasterCard", 
+    "issuer": "Continental Finance"
+  }, 
+  {
+    "country_code": "IN", 
+    "iin": 512622, 
+    "network": "MasterCard", 
+    "issuer": "SBI"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 512687, 
+    "network": "MasterCard", 
+    "issuer": "Sainsbury"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5130, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513100, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513101, 
+    "network": "MasterCard", 
+    "issuer": "Europay France Credit Agricole"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5131, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513141, 
+    "network": "MasterCard", 
+    "issuer": "Europay France Cr\u00e9dit Agricole"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513142, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513143, 
+    "network": "MasterCard", 
+    "issuer": "Europay France Advanzia Bank"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5131, 
+    "network": "MasterCard", 
+    "issuer": "Europay France Advanzia Bank"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5132, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5133, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5134, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513453, 
+    "network": "MasterCard", 
+    "issuer": "BNP Paribas"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5135, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513536, 
+    "network": "MasterCard", 
+    "issuer": "Europay France BRED Banque Populaire"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5135, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5136, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513624, 
+    "network": "MasterCard", 
+    "issuer": "Europay France - Barclays Bank PLC"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5136, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "RU", 
+    "iin": 513691, 
+    "network": "MasterCard", 
+    "issuer": "Russian Standard Bank, Russia"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5137, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 5138, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "FR", 
+    "iin": 513900, 
+    "network": "MasterCard", 
+    "issuer": "Europay France"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514011, 
+    "network": "MasterCard", 
+    "issuer": "Integra Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514012, 
+    "network": "MasterCard", 
+    "issuer": "CitiBank South Dakota"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514013, 
+    "network": "MasterCard", 
+    "issuer": "Elgin First Credit Union"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514015, 
+    "network": "MasterCard", 
+    "issuer": "Infibank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514016, 
+    "network": "MasterCard", 
+    "issuer": "Miramar First Credit Union"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514017, 
+    "network": "MasterCard", 
+    "issuer": "Franklin Templeton Bank and Trust"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514019, 
+    "network": "MasterCard", 
+    "issuer": "Wells Fargo"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514020, 
+    "network": "MasterCard", 
+    "issuer": "Wells Fargo"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514021, 
+    "network": "MasterCard", 
+    "issuer": "Juniper Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514022, 
+    "network": "MasterCard", 
+    "issuer": "Navy Federal Credit Union"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 514045, 
+    "network": "MasterCard", 
+    "issuer": "Aussie"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514102, 
+    "network": "MasterCard", 
+    "issuer": "Park National Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514108, 
+    "network": "MasterCard", 
+    "issuer": "Paradigm Bank Texas"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 514250, 
+    "network": "MasterCard", 
+    "issuer": "Commonwealth Securities"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514253, 
+    "network": "MasterCard", 
+    "issuer": "EDS Employees First Credit Union"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 514700, 
+    "network": "MasterCard", 
+    "issuer": "Mascoma Savings Bank"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 514876, 
+    "network": "MasterCard", 
+    "issuer": "CitiBank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514889, 
+    "network": "MasterCard", 
+    "issuer": "Juniper Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 514923, 
+    "network": "MasterCard", 
+    "issuer": "Chase Manhattan Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 515462, 
+    "network": "MasterCard", 
+    "issuer": "Bankcorp Bank Sams Club Gift PrePaid"
+  }, 
+  {
+    "country_code": "RU", 
+    "iin": 515854, 
+    "network": "MasterCard", 
+    "issuer": "Citibank Citigold Debit Card"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 517644, 
+    "network": "MasterCard", 
+    "issuer": "Miramar First Credit Union"
+  }, 
+  {
+    "country_code": "PL", 
+    "iin": 516010, 
+    "network": "MasterCard", 
+    "issuer": "Polbank EFG"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 516029, 
+    "network": "MasterCard", 
+    "issuer": "CitiFinancial"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516300, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516310, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516315, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "RU", 
+    "iin": 516331, 
+    "network": "MasterCard", 
+    "issuer": "Svyaznoy Bank"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516335, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516321, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516337, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516361, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 516366, 
+    "network": "MasterCard", 
+    "issuer": "Westpac Banking Corporation"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 516693, 
+    "network": "MasterCard", 
+    "issuer": "FISERV SOLUTIONS"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 517651, 
+    "network": "MasterCard", 
+    "issuer": "5-Star Bank"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 517652, 
+    "network": "MasterCard", 
+    "issuer": "HDFC Bank"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 517669, 
+    "network": "MasterCard", 
+    "issuer": "HSBC"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 517805, 
+    "network": "MasterCard", 
+    "issuer": "Jpmorgan Chase Bank"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 517869, 
+    "network": "MasterCard", 
+    "issuer": "Union Bank"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 518126, 
+    "network": "MasterCard", 
+    "issuer": "Utility Warehouse"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 518127, 
+    "network": "MasterCard", 
+    "issuer": "President's Choice Financial"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 518142, 
+    "network": "MasterCard", 
+    "issuer": "MBNA"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 518145, 
+    "network": "MasterCard", 
+    "issuer": "Royal Bank of Scotland"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 518152, 
+    "network": "MasterCard", 
+    "issuer": ""
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 518175, 
+    "network": "MasterCard", 
+    "issuer": "MBNA"
+  }, 
+  {
+    "country_code": "DE", 
+    "iin": 518346, 
+    "network": "MasterCard", 
+    "issuer": "Unicredit Bank AG"
+  }, 
+  {
+    "country_code": "US", 
+    "iin": 518390, 
+    "network": "MasterCard", 
+    "issuer": "Citibank"
+  }, 
+  {
+    "country_code": "HK", 
+    "iin": 518542, 
+    "network": "MasterCard", 
+    "issuer": "HSBC"
+  }, 
+  {
+    "country_code": "IE", 
+    "iin": 518676, 
+    "network": "MasterCard", 
+    "issuer": "AvantCard"
+  }, 
+  {
+    "country_code": "UK", 
+    "iin": 518652, 
+    "network": "MasterCard", 
+    "issuer": "Royal Bank of Scotland"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 518791, 
+    "network": "MasterCard", 
+    "issuer": "Lloyds TSB"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 518868, 
+    "network": "MasterCard", 
+    "issuer": "Bendigo Bank"
+  }, 
+  {
+    "country_code": "Russia", 
+    "iin": 518996, 
+    "network": "MasterCard", 
+    "issuer": "UniCredit Bank,"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519000, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519113, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519120, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519121, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519122, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519123, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519129, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519133, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519140, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519141, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519142, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519143, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519154, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519161, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519162, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "NZ", 
+    "iin": 519163, 
+    "network": "MasterCard", 
+    "issuer": "Kiwibank"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519173, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519180, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519181, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519182, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519183, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519200, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519201, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519202, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519220, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519221, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519222, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519223, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519240, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519241, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519242, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "AU", 
+    "iin": 519244, 
+    "network": "MasterCard", 
+    "issuer": "Bendigo Bank"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519259, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519269, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519281, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519283, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519290, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519293, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519294, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519322, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519323, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519332, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519342, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519371, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519373, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519381, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519383, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519390, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519391, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519393, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519394, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519395, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519398, 
+    "network": "MasterCard", 
+    "issuer": "HSBC Canada"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519400, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519403, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519409, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519430, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519431, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519433, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519434, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519443, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "PH", 
+    "iin": 519463, 
+    "network": "MasterCard", 
+    "issuer": "Banco De Oro"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519490, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519491, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519493, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519494, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 519520, 
+    "network": "MasterCard", 
+    "issuer": "Altair"
+  }, 
+  {
+    "country_code": "", 
+    "iin": 519525, 
+    "network": "MasterCard", 
+    "issuer": "Contis Group &amp; EZPay"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519540, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519541, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519542, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519543, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "CA", 
+    "iin": 519544, 
+    "network": "MasterCard", 
+    "issuer": "Bank of Montreal"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 6541, 
+    "network": "Discover", 
+    "issuer": "BC Card"
+  }, 
+  {
+    "country_code": "KR", 
+    "iin": 6556, 
+    "network": "Discover", 
+    "issuer": "BC Card"
+  }
+]

@@ -12,7 +12,7 @@
 using namespace std;
 namespace pt = boost::property_tree;
 
-#define VERSION 0.2
+#define VERSION 0.3
 #define DEFAULT_CARD_LEN 16
 std::string app_filename;
 
@@ -190,20 +190,21 @@ bool verify_pan(string pan)
 int usage()
 {
   cout << "usage: " << app_filename << " [options]" << endl;
-  cout << "    -c, --country     Specify a comma-separated list of 2-letter country codes to add IINs to the pool based on geographic location." << endl;
-  cout << "    -d, --debug       Enable debug output" << endl;
-  cout << "    -h, --help        Displays this help notice" << endl;
-  cout << "    -i, --iin         Specify a list of IINs to use in the IIN pool. You can add an optional PAN length (colon-separated) for each IIN" << endl;
-  cout << "    -I, --issuers     Specify a comma-separated list of issuers to use in the IIN pool" << endl;
-  cout << "    -l, --length      Force the length of the PANs being generated" << endl;
-  cout << "    -r, --random      Generate random PAN candidates for each IIN" << endl;
-  cout << "        --verify      Checks input on stdin and outputs only the valid PANs" << endl;
-  cout << "    -v, --version     Displays version info" << endl;
-  cout << "    -V, --vendors     Specify a comma-separated list of vendors to use in the IIN pool" << endl;
-  cout << "    -w, --walk        Generate all PAN candidates for each IIN" << endl;
+  cout << "    -c, --country-code Specify a comma-separated list of 2-letter country codes to add IINs to the pool based on geographic location." << endl;
+  cout << "    -d, --debug        Enable debug output" << endl;
+  cout << "    -h, --help         Displays this help notice" << endl;
+  cout << "    -f FILE            Use FILE as our json IIN database" << endl;
+  cout << "    -i, --iin          Specify a list of IINs to use in the IIN pool. You can add an optional PAN length (colon-separated) for each IIN" << endl;
+  cout << "    -I, --issuers      Specify a comma-separated list of issuers to use in the IIN pool" << endl;
+  cout << "    -l, --length       Force the length of the PANs being generated" << endl;
+  cout << "    -n, --networks     Specify a comma-separated list of networks to use in the IIN pool" << endl;
+  cout << "    -r, --random       Generate random PAN candidates for each IIN" << endl;
+  cout << "        --verify       Checks input on stdin and outputs only the valid PANs" << endl;
+  cout << "    -v, --version      Displays version info" << endl;
+  cout << "    -w, --walk         Generate all PAN candidates for each IIN" << endl;
   cout << endl;
-  cout << "issuers:" << endl; 
-  cout << "    Card issuers can be referenced by the issuer's name. Additionally, you can use shortnames with select issuers. Please reference the iin.txt file to view all entries. e.g." << endl;
+  cout << "networks:" << endl; 
+  cout << "    Card networks can be referenced by the network's name. Additionally, you can use shortnames with select networks. Please reference the iin.json file to view all entries. e.g." << endl;
   cout << "        amex" << endl;
   cout << "        dinersclub" << endl;
   cout << "        jcb" << endl;
@@ -215,11 +216,11 @@ int usage()
 int main(int argc, char** argv)
 {
   arguments args;
-  string iin_filename = "iin.txt";
+  string iin_filename = "iin.json";
   string opt;
   vector<string> countries;
+  vector<string> networks;
   vector<string> issuers;
-  vector<string> vendors;
   int force_len = 0;
 
   app_filename = argv[0];
@@ -237,11 +238,19 @@ int main(int argc, char** argv)
     {
       return usage();
     }
-    else if (opt == "-c" || opt == "--country")
+    else if (opt == "-c" || opt == "--country-code")
     {
       // split the argument into tokens
       cstrtolower(argv[++i]);
       boost::split(countries, argv[i], boost::is_any_of(","));
+    }
+    else if (opt == "-f")
+    {
+      // make sure we have an argument to assign
+      if (i == argc-1) return usage();
+
+      // set the iin_filename to our argument
+      iin_filename = argv[++i];
     }
     else if (opt == "-i" || opt == "--iin")
     {
@@ -266,27 +275,27 @@ int main(int argc, char** argv)
         prefixes.push_back(iin(stol(iin_meta[0]), stol(iin_meta[1])));
       }
     }
-    else if (opt == "-I" || opt == "--issuers")
+    else if (opt == "-n" || opt == "--networks")
     {
       // make sure we have an argument to assign
       if (i == argc-1) return usage();
 
       // split the argument into tokens
       cstrtolower(argv[++i]);
-      boost::split(issuers, argv[i], boost::is_any_of(","));
+      boost::split(networks, argv[i], boost::is_any_of(","));
 
-      // expand issuer short names
-      for (int i=0; i< issuers.size(); i++)
+      // expand network short names
+      for (int i=0; i< networks.size(); i++)
       {
-        string issuer = issuers[i];
-        cstrtolower(&issuer);
-        if (issuer == "amex")
+        string network = networks[i];
+        cstrtolower(&network);
+        if (network == "amex")
         {
-          issuers[i] = "american express";
+          networks[i] = "american express";
         }
-        else if (issuer == "diners")
+        else if (network == "diners")
         {
-          issuers[i] = "diners club";
+          networks[i] = "diners club";
         }
       }
     }
@@ -297,14 +306,14 @@ int main(int argc, char** argv)
 
       force_len = std::stoi(argv[++i]);
     }
-    else if (opt == "-V" || opt == "--vendors")
+    else if (opt == "-V" || opt == "--issuers")
     {
       // make sure we have an argument to assign
       if (i == argc-1) return usage();
 
       // split the argument into tokens
       cstrtolower(argv[++i]);
-      boost::split(vendors, argv[i], boost::is_any_of(","));
+      boost::split(issuers, argv[i], boost::is_any_of(","));
     }
     else if (opt == "--verify")
     {
@@ -345,7 +354,7 @@ int main(int argc, char** argv)
   // seed PRNG for generating PANs (does not need to be crypto safe)
   srand(time(NULL));
 
-  if (!prefixes.size() || vendors.size() || issuers.size())
+  if (!prefixes.size() || issuers.size() || networks.size())
   {
     // verify iin file
     FILE *fp = fopen(iin_filename.c_str(),"r");
@@ -376,17 +385,6 @@ int main(int argc, char** argv)
     {
       bool add_iin = true;
 
-      // filter by vendor
-      if (vendors.size())
-      {
-        string current_vendor = it->second.get<string>("vendor", "");
-        cstrtolower(&current_vendor);
-        if (find(vendors.begin(), vendors.end(), current_vendor) == vendors.end())
-        {
-          add_iin = false;
-        }
-      }
-
       // filter by issuer
       if (issuers.size())
       {
@@ -398,10 +396,21 @@ int main(int argc, char** argv)
         }
       }
 
+      // filter by network
+      if (networks.size())
+      {
+        string current_network = it->second.get<string>("network", "");
+        cstrtolower(&current_network);
+        if (find(networks.begin(), networks.end(), current_network) == networks.end())
+        {
+          add_iin = false;
+        }
+      }
+
       // filter by country
       if (countries.size())
       {
-        string current_country = it->second.get<string>("country", "");
+        string current_country = it->second.get<string>("country_code", "");
         cstrtolower(&current_country);
         if (find(countries.begin(), countries.end(), current_country) == countries.end())
         {
